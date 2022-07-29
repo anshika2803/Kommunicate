@@ -1,0 +1,10 @@
+My internship at a company where I freelanced in the creation of an educational 
+platform that had three types of login (administrator, student, and teacher) and
+ gave a fully featured website for all of the tests and lesson preparation was,
+  by far, the best project I have ever worked on.
+   The website provided a place for all of the students
+    and teachers to prepare for their lessons.
+     It utilised Springboot Java REST API for receiving and storing dynamic data.
+      React JS was used for the frontend, 
+    while React Native was used for the remaining backend activities.
+     MySQL served as the storage medium for the database.
