@@ -8,3 +8,10 @@ platform that had three types of login (administrator, student, and teacher) and
       React JS was used for the frontend, 
     while React Native was used for the remaining backend activities.
      MySQL served as the storage medium for the database.
+     
+     Github links:
+     Frontend: https://github.com/anshika2803/EMS.git
+     Backend: https://github.com/anshika2803/ExamManagementSystem.git
+     
+     Website Link:
+     http://exam.apnalifecare.com/
